@@ -1,3 +1,6 @@
+[LIVE](https://dynamic-event-managment-calendar.netlify.app/)
+
+
 Task and Event Management:
      1.Users can add, edit, and delete tasks and events for specific dates.
      2.Each task and event can include a description, start time, end time, and additional details.
@@ -15,6 +18,3 @@ User Input Forms:
 Task and Event Lists:
     1. Users can view all tasks and events for the selected date, with options to edit or delete them.
     2.A summary section displays all events across different dates, providing an overview of scheduled activities.
-
-
-    The Calendar Application serves as a practical tool for users to organize their schedules, manage tasks, and keep track of events. With its current features and potential for further enhancements, it provides a solid foundation for personal productivity and time management.
